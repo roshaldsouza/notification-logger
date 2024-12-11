@@ -1,7 +1,4 @@
-Here’s a README.md file for your project with emojis to make it more engaging:
 
-markdown
-Copy code
 # 🚀 Notification Logger
 
 A simple utility to enhance logging with desktop notifications and override `console.log` functionality for better debugging. 🎉
@@ -14,16 +11,15 @@ A simple utility to enhance logging with desktop notifications and override `con
    ```bash
    npm install notification-logger
 Or clone via Git:
-bash
-Copy code
+
 git clone https://github.com/hkirat/notification-logger.git
 Include the script in your HTML file:
 html
-Copy code
+
 <script src="notification-logger.js"></script>
 Initialize the logger:
 javascript
-Copy code
+
 logger.init();
 ⚙️ Methods
 Method	Description
@@ -39,7 +35,7 @@ Works best on the latest versions of:
 🧭 Safari
 📖 Example Usage
 html
-Copy code
+
 <script src="notification-logger.js"></script>
 <script>
   // Initialize the logger
@@ -63,7 +59,7 @@ Copy code
 💻 Running Locally
 Start an HTTP server:
 bash
-Copy code
+
 npx http-server
 Open your browser and navigate to http://127.0.0.1:8080.
 🙌 Credits
@@ -73,10 +69,9 @@ Feel free to ⭐ the repository if you find it useful!
 📜 License
 MIT License 📝
 
-css
-Copy code
 
-You can tweak the emojis to match your preferences or add more to make it visually appealing! 😊
+
+
 
 
 
