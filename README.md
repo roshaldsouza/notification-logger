@@ -70,6 +70,8 @@ Feel free to ⭐ the repository if you find it useful!
 MIT License 📝
 
 
+Snapshot
+![image](https://github.com/user-attachments/assets/c77d3fb5-f48e-4782-a7df-0844af08afe2)
 
 
 
